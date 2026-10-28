@@ -1021,3 +1021,16 @@ footer p {
         height: 320px;
     }
 }
+.video-comercial {
+    width: 100%;
+    max-width: 900px;
+    margin: 30px auto;
+}
+
+.video-comercial iframe {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    display: block;
+    border: 2px solid var(--rojo);
+    border-radius: 8px;
+}
