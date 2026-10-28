@@ -130,7 +130,7 @@ a {
             rgba(9, 10, 11, 0.78) 45%,
             rgba(9, 10, 11, 0.28) 100%
         ),
-        url('img/Sena.jpeg');
+        url('Sena.jpeg');
 
     background-size: cover;
     background-position: center;
